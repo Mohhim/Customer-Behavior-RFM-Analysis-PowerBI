@@ -1,0 +1,11 @@
+﻿ProductID,ProductName,Category,UnitPrice
+P001,Wireless Mouse,Electronics,85
+P002,Keyboard,Electronics,140
+P003,Monitor,Electronics,720
+P004,USB Hub,Electronics,95
+P005,Notebook,Office Supplies,24
+P006,Pen Set,Office Supplies,32
+P007,Desk Organizer,Office Supplies,60
+P008,Office Chair,Furniture,560
+P009,Desk,Furniture,850
+P010,Desk Lamp,Furniture,120
