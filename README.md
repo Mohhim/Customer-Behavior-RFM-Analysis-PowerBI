@@ -6,6 +6,7 @@ An interactive **Power BI portfolio project** exploring customer purchasing beha
 
 ## Dashboard Preview
 
+
 ### 1. Customer Overview
 
 ![Customer Overview Dashboard](01_Customer_Overview.png)
@@ -141,7 +142,7 @@ Customer-Behavior-RFM-Analysis-PowerBI/
 
 ## How to Explore the Report
 
-1. Download [`Customer_Behavior_RFM_Analysis.pbix`](Customer_Behavior_RFM_Analysis.pbix).
+1. Download [Download Power BI Report](Customer_RFM_Analysis.pbix)
 2. Open it using **Microsoft Power BI Desktop**.
 3. Explore the **Customer Overview**, **RFM Segmentation**, **Customer Retention**, and **Business Insights** pages.
 4. Use filters and chart interactions to examine specific customers, regions, segments, or periods.
