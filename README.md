@@ -59,9 +59,9 @@ The cohort and RFM helper tables are not shown as directly related to the `order
 
 The project uses three synthetic source files:
 
-- `customers.csv` — customer information
-- `orders.csv` — customer orders and purchase activity
-- `products.csv` — product information
+- [`customers.csv`](customers.csv) — customer information
+- [`orders.csv`](orders.csv) — customer orders and purchase activity
+- [`products.csv`](products.csv) — product information
 
 The Power BI model also includes supporting date, RFM segment, and cohort-analysis structures. Relationships enable analysis across customer, order, product, and time dimensions.
 
@@ -160,8 +160,8 @@ Visual interactions and filters are available in the analytical pages. **Executi
 
 ## How to Run
 
-1. Download the `.pbix` file from this repository.
-2. Open it using **Microsoft Power BI Desktop**.
+1. Download the [Power BI report](Customer_RFM_Analysis_Professional.pbix) from this repository.
+2. 2. Open it using **Microsoft Power BI Desktop**.
 3. Navigate through the four report pages.
 4. Interact with charts and tables to explore different subsets of the data.
 5. If a refresh is needed, ensure the included CSV files are available locally and update their paths through **Transform data → Data source settings** or the relevant Power Query source steps.
